@@ -1,0 +1,19 @@
+{
+  "name": "rowdy-bug-bot",
+  "version": "2.0.0",
+  "description": "ROWDY BUG BOT — Proxy + 428 Fix",
+  "scripts": {
+    "start": "node syed.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "npm:kashmiribailey",
+    "chalk": "^5.6.2",
+    "crypto": "^1.0.1",
+    "http-proxy-agent": "^7.0.2",
+    "https-proxy-agent": "^7.0.6",
+    "node-cache": "^5.1.2",
+    "node-telegram-bot-api": "^0.67.0",
+    "pino": "^10.3.0",
+    "socks-proxy-agent": "^8.0.5"
+  }
+}
