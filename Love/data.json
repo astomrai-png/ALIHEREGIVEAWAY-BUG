@@ -1,17 +1,15 @@
 {
-  "state": 0,
+  "state": 5,
   "tokens": [
     {
-      "token": ":8583544997:AAFUXHFYV--1HFmnAX_6y9MsqmnM8A9eIAo",
-      "owner": "@rowdy_papa_official"
+      "token": "8954512727:AAG_qnItvP-NQw9D-Y4ZTiOSh1piaeO3ACY",
+      "owner": "8763895360"
     }
   ],
   "premium": [
-    "55"
+    "8763895360"
   ],
   "resellers": [
-    "5",
-    "4",
-    "5"
+    "8763895360"
   ]
 }
